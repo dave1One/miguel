@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mitarbeiterverwaltung
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Mitarbeiterverwaltung.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Mitarbeiterverwaltung()
+comment1.text=\r\n\ Konstruktor\ f?r\ Objekte\ der\ Klasse\ Mitarbeiterverwaltung\r\n
+comment2.params=
+comment2.target=void\ namenAusgeben()
+comment3.params=
+comment3.target=void\ mitarbeiterInformationen()
+comment4.params=
+comment4.target=int\ gibSummeAllerGehaelter()
+comment5.params=
+comment5.target=int\ gibHoechsteGehalt()
+comment6.params=pName
+comment6.target=boolean\ sucheMitarbeiterName(java.lang.String)
+numComments=7

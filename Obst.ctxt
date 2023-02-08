@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Obst
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Obst.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=pName\ pKalorien
+comment1.target=Obst(java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ f?r\ Objekte\ der\ Klasse\ Obst\r\n
+comment2.params=
+comment2.target=int\ getKalorien()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

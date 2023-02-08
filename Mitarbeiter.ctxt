@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mitarbeiter
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Mitarbeiter.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=pGehalt\ pName\ pFunktion
+comment1.target=Mitarbeiter(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f?r\ Objekte\ der\ Klasse\ Mitarbeiter\r\n
+comment2.params=
+comment2.target=java.lang.String\ gibName()
+comment3.params=
+comment3.target=int\ gibGehalt()
+comment4.params=
+comment4.target=java.lang.String\ gibFunktion()
+numComments=5

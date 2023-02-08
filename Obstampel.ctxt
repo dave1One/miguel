@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Obstampel
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Obstampel.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Obstampel()
+comment1.text=\r\n\ Konstruktor\ f?r\ Objekte\ der\ Klasse\ Obstampel\r\n
+comment2.params=pName\ pKalorien
+comment2.target=void\ obstHinzufuegen(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ zeigeObstsortiment()
+comment4.params=
+comment4.target=double\ durchschnittsKalorien()
+numComments=5
