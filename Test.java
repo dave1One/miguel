@@ -11,6 +11,7 @@ public class Test
     private List<String> beispielListe;
     private List<String> beispielListe2;
 
+    //Hallo Leute!
     /**
      * Konstruktor f?r Objekte der Klasse Test
      */
